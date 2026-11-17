@@ -1,0 +1,1 @@
+{"description":"NEON SWARM — a neon arena survival game. Entry for make.fun best-game-01.","devDependencies":{"playwright":"^1.65.1"},"license":"MIT","name":"neon-swarm","scripts":{"dossier":"node main.ts","serve":"node serve.ts","shots":"node scripts/shots.mjs","test":"node scripts/test-game.mjs"},"type":"module","version":"1.0.0"}
